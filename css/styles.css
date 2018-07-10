@@ -4,3 +4,13 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 font-family: 'Nosifer', cursive;
+
+#pg1{
+background-image:url("../images/pexels-photo-626163.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#bg3{
+background-color: black;
+}
